@@ -1,2 +1,2 @@
 # hello-world
-Testing
+Hi! I'm a Uconn Compsci major starting Github for the first time.
